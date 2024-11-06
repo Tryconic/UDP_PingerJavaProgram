@@ -1,7 +1,7 @@
 import java.net.*;
 import java.io.*;
 
-public class CBoothUDPClient {
+public class CBoothUPDClient {
     public static void main(String[] args) {
         String serverName = "localhost";
         int port = 9999;
